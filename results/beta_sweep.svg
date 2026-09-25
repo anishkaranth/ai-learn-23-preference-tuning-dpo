@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="403.2pt" height="244.8pt" viewBox="0 0 403.2 244.8" version="1.1">
+<style type="text/css">.s0{stroke:#000000;stroke-width:0.6}.s1{stroke:#000000;stroke-width:0.8}.s2{fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square}.s3{font-size:10px;font-family:sans-serif;text-anchor:start}.s4{font-size:10px;font-family:'DejaVuSans'}.s5{font-size:10px;font-family:sans-serif;text-anchor:end}.s6{font-size:7px;font-family:'DejaVuSans'}.s7{fill:#ffffff}</style>
+<defs>
+<style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+</defs>
+<path d="M 0 244.8 L 403.2 244.8 L 403.2 0 L 0 0 z" class="s7"/>
+<path d="M 54.4 200.9 L 355.2 200.9 L 355.2 26.2 L 54.4 26.2 z" class="s7"/>
+<defs>
+<path id="m536aa40177" d="M 0 0 L 0 3.5" class="s1"/>
+</defs>
+<use xlink:href="#m536aa40177" x="124.8" y="200.9" class="s1"/>
+<g transform="translate(113 217.2)">
+<text>
+<tspan x="0" y="-0.8" class="s4">1</tspan>
+<tspan x="6.4" y="-0.8" class="s4">0</tspan>
+<tspan x="12.8" y="-4.9" class="s6">−</tspan>
+<tspan x="18.7" y="-4.9" class="s6">1</tspan>
+</text>
+</g>
+<use xlink:href="#m536aa40177" x="233.2" y="200.9" class="s1"/>
+<g transform="translate(224.4 217.3)">
+<text>
+<tspan x="0" y="-0.7" class="s4">1</tspan>
+<tspan x="6.4" y="-0.7" class="s4">0</tspan>
+<tspan x="12.8" y="-4.8" class="s6">0</tspan>
+</text>
+</g>
+<use xlink:href="#m536aa40177" x="341.6" y="200.9" class="s1"/>
+<g transform="translate(332.8 217.2)">
+<text>
+<tspan x="0" y="-0.8" class="s4">1</tspan>
+<tspan x="6.4" y="-0.8" class="s4">0</tspan>
+<tspan x="12.8" y="-4.9" class="s6">1</tspan>
+</text>
+</g>
+<defs>
+<path id="m74a49e4eb3" d="M 0 0 L 0 2" class="s0"/>
+</defs>
+<use xlink:href="#m74a49e4eb3" x="68.1" y="200.9" class="s0"/>
+<use xlink:href="#m74a49e4eb3" x="81.7" y="200.9" class="s0"/>
+<use xlink:href="#m74a49e4eb3" x="92.2" y="200.9" class="s0"/>
+<use xlink:href="#m74a49e4eb3" x="100.7" y="200.9" class="s0"/>
+<use xlink:href="#m74a49e4eb3" x="108" y="200.9" class="s0"/>
+<use xlink:href="#m74a49e4eb3" x="114.3" y="200.9" class="s0"/>
+<use xlink:href="#m74a49e4eb3" x="119.8" y="200.9" class="s0"/>
+<use xlink:href="#m74a49e4eb3" x="157.4" y="200.9" class="s0"/>
+<use xlink:href="#m74a49e4eb3" x="176.5" y="200.9" class="s0"/>
+<use xlink:href="#m74a49e4eb3" x="190" y="200.9" class="s0"/>
+<use xlink:href="#m74a49e4eb3" x="200.5" y="200.9" class="s0"/>
+<use xlink:href="#m74a49e4eb3" x="209.1" y="200.9" class="s0"/>
+<use xlink:href="#m74a49e4eb3" x="216.4" y="200.9" class="s0"/>
+<use xlink:href="#m74a49e4eb3" x="222.7" y="200.9" class="s0"/>
+<use xlink:href="#m74a49e4eb3" x="228.2" y="200.9" class="s0"/>
+<use xlink:href="#m74a49e4eb3" x="265.8" y="200.9" class="s0"/>
+<use xlink:href="#m74a49e4eb3" x="284.9" y="200.9" class="s0"/>
+<use xlink:href="#m74a49e4eb3" x="298.4" y="200.9" class="s0"/>
+<use xlink:href="#m74a49e4eb3" x="308.9" y="200.9" class="s0"/>
+<use xlink:href="#m74a49e4eb3" x="317.5" y="200.9" class="s0"/>
+<use xlink:href="#m74a49e4eb3" x="324.8" y="200.9" class="s0"/>
+<use xlink:href="#m74a49e4eb3" x="331.1" y="200.9" class="s0"/>
+<use xlink:href="#m74a49e4eb3" x="336.6" y="200.9" class="s0"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="204.8" y="231.3">beta</text>
+<defs>
+<path id="m7239b0bf62" d="M 0 0 L -3.5 0" class="s1"/>
+</defs>
+<use xlink:href="#m7239b0bf62" x="54.4" y="177.8" class="s1"/>
+<text x="47.4" y="181.6" class="s5">0.55</text>
+<use xlink:href="#m7239b0bf62" x="54.4" y="141.8" class="s1"/>
+<text x="47.4" y="145.6" class="s5">0.60</text>
+<use xlink:href="#m7239b0bf62" x="54.4" y="105.8" class="s1"/>
+<text x="47.4" y="109.6" class="s5">0.65</text>
+<use xlink:href="#m7239b0bf62" x="54.4" y="69.9" class="s1"/>
+<text x="47.4" y="73.7" class="s5">0.70</text>
+<use xlink:href="#m7239b0bf62" x="54.4" y="33.9" class="s1"/>
+<text x="47.4" y="37.7" class="s5">0.75</text>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle; fill: #126782" x="18.8" y="113.5" transform="rotate(-90 18.8 113.5)">win rate vs reference</text>
+<path d="M 68.1 34.5 L 124.8 34.1 L 176.5 37.7 L 233.2 80.5 L 284.9 151.2 L 341.6 193" style="fill: none; stroke: #126782; stroke-width: 1.5; stroke-linecap: square"/>
+<path d="M 54.4 200.9 L 54.4 26.2" class="s2"/>
+<path d="M 355.2 200.9 L 355.2 26.2" class="s2"/>
+<path d="M 54.4 200.9 L 355.2 200.9" class="s2"/>
+<path d="M 54.4 26.2 L 355.2 26.2" class="s2"/>
+<text style="font-size: 12px; font-family: sans-serif; text-anchor: middle" x="204.8" y="20.2">DPO beta sweep: small beta = stronger push away from ref</text>
+<defs>
+<path id="m5826591021" d="M 0 0 L 3.5 0" class="s1"/>
+</defs>
+<use xlink:href="#m5826591021" x="355.2" y="194.1" class="s1"/>
+<text x="362.2" y="197.9" class="s3">0.00</text>
+<use xlink:href="#m5826591021" x="355.2" y="169.1" class="s1"/>
+<text x="362.2" y="172.9" class="s3">0.25</text>
+<use xlink:href="#m5826591021" x="355.2" y="144.1" class="s1"/>
+<text x="362.2" y="147.9" class="s3">0.50</text>
+<use xlink:href="#m5826591021" x="355.2" y="119.2" class="s1"/>
+<text x="362.2" y="123" class="s3">0.75</text>
+<use xlink:href="#m5826591021" x="355.2" y="94.2" class="s1"/>
+<text x="362.2" y="98" class="s3">1.00</text>
+<use xlink:href="#m5826591021" x="355.2" y="69.2" class="s1"/>
+<text x="362.2" y="73" class="s3">1.25</text>
+<use xlink:href="#m5826591021" x="355.2" y="44.2" class="s1"/>
+<text x="362.2" y="48" class="s3">1.50</text>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle; fill: #e76f51" x="396.1" y="113.5" transform="rotate(-90 396.1 113.5)">KL(pi || pi_ref)</text>
+<path d="M 68.1 34.1 L 124.8 44.2 L 176.5 72.3 L 233.2 140.2 L 284.9 183.5 L 341.6 193" style="fill: none; stroke-dasharray: 5.55,2.4; stroke-dashoffset: 0; stroke: #e76f51; stroke-width: 1.5"/>
+<path d="M 54.4 200.9 L 54.4 26.2" class="s2"/>
+<path d="M 355.2 200.9 L 355.2 26.2" class="s2"/>
+<path d="M 54.4 200.9 L 355.2 200.9" class="s2"/>
+<path d="M 54.4 26.2 L 355.2 26.2" class="s2"/>
+</svg>
