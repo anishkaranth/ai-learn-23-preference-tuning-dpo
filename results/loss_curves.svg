@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="604.8pt" height="230.4pt" viewBox="0 0 604.8 230.4" version="1.1">
+<style type="text/css">.s0{stroke:#000000;stroke-width:0.8}.s1{font-size:10px;font-family:sans-serif;text-anchor:middle}.s2{font-size:10px;font-family:sans-serif;text-anchor:end}.s3{fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square}.s4{font-size:7px;font-family:sans-serif;text-anchor:start}.s5{fill:#ffffff}.s6{font-size:12px;font-family:sans-serif;text-anchor:middle}.s7{fill:none;stroke:#1f77b4;stroke-width:1.5;stroke-linecap:square}.s8{fill:none;stroke:#ff7f0e;stroke-width:1.5;stroke-linecap:square}.s9{fill:none;stroke:#2ca02c;stroke-width:1.5;stroke-linecap:square}.s10{fill:none;stroke:#d62728;stroke-width:1.5;stroke-linecap:square}.s11{fill:none;stroke:#9467bd;stroke-width:1.5;stroke-linecap:square}.s12{fill:none;stroke:#8c564b;stroke-width:1.5;stroke-linecap:square}</style>
+<defs>
+<style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+</defs>
+<path d="M 0 230.4 L 604.8 230.4 L 604.8 0 L 0 0 z" class="s5"/>
+<path d="M 40.1 188.6 L 292 188.6 L 292 26.2 L 40.1 26.2 z" class="s5"/>
+<defs>
+<path id="m536aa40177" d="M 0 0 L 0 3.5" class="s0"/>
+</defs>
+<use xlink:href="#m536aa40177" x="51.6" y="188.6" class="s0"/>
+<text x="51.6" y="203.2" class="s1">0</text>
+<use xlink:href="#m536aa40177" x="99.8" y="188.6" class="s0"/>
+<text x="99.8" y="203.2" class="s1">100</text>
+<use xlink:href="#m536aa40177" x="148" y="188.6" class="s0"/>
+<text x="148" y="203.2" class="s1">200</text>
+<use xlink:href="#m536aa40177" x="196.2" y="188.6" class="s0"/>
+<text x="196.2" y="203.2" class="s1">300</text>
+<use xlink:href="#m536aa40177" x="244.4" y="188.6" class="s0"/>
+<text x="244.4" y="203.2" class="s1">400</text>
+<text x="166.1" y="217.2" class="s1">step</text>
+<defs>
+<path id="m7239b0bf62" d="M 0 0 L -3.5 0" class="s0"/>
+</defs>
+<use xlink:href="#m7239b0bf62" x="40.1" y="176.3" class="s0"/>
+<text x="33.1" y="180.1" class="s2">0.40</text>
+<use xlink:href="#m7239b0bf62" x="40.1" y="152" class="s0"/>
+<text x="33.1" y="155.8" class="s2">0.45</text>
+<use xlink:href="#m7239b0bf62" x="40.1" y="127.6" class="s0"/>
+<text x="33.1" y="131.4" class="s2">0.50</text>
+<use xlink:href="#m7239b0bf62" x="40.1" y="103.3" class="s0"/>
+<text x="33.1" y="107.1" class="s2">0.55</text>
+<use xlink:href="#m7239b0bf62" x="40.1" y="78.9" class="s0"/>
+<text x="33.1" y="82.7" class="s2">0.60</text>
+<use xlink:href="#m7239b0bf62" x="40.1" y="54.5" class="s0"/>
+<text x="33.1" y="58.3" class="s2">0.65</text>
+<use xlink:href="#m7239b0bf62" x="40.1" y="30.2" class="s0"/>
+<text x="33.1" y="34" class="s2">0.70</text>
+<path d="M 51.6 33.5 L 63.6 176.3 L 75.7 181.2 L 87.7 181.2 L 99.8 181.2 L 111.8 181.2 L 123.9 181.2 L 135.9 181.2 L 148 181.2 L 160 181.2 L 172.1 181.2 L 184.2 181.2 L 196.2 181.2 L 208.3 181.2 L 220.3 181.2 L 232.4 181.2 L 244.4 181.2 L 256.5 181.2 L 268.5 181.2 L 280.6 181.2" style="fill: none; stroke: #2a9d8f; stroke-width: 1.5; stroke-linecap: square"/>
+<path d="M 40.1 188.6 L 40.1 26.2" class="s3"/>
+<path d="M 292 188.6 L 292 26.2" class="s3"/>
+<path d="M 40.1 188.6 L 292 188.6" class="s3"/>
+<path d="M 40.1 26.2 L 292 26.2" class="s3"/>
+<text x="166.1" y="20.2" class="s6">Bradley-Terry reward model loss</text>
+<path d="M 332.1 188.6 L 584 188.6 L 584 26.2 L 332.1 26.2 z" class="s5"/>
+<use xlink:href="#m536aa40177" x="343.6" y="188.6" class="s0"/>
+<text x="343.6" y="203.2" class="s1">0</text>
+<use xlink:href="#m536aa40177" x="383.1" y="188.6" class="s0"/>
+<text x="383.1" y="203.2" class="s1">500</text>
+<use xlink:href="#m536aa40177" x="422.6" y="188.6" class="s0"/>
+<text x="422.6" y="203.2" class="s1">1000</text>
+<use xlink:href="#m536aa40177" x="462" y="188.6" class="s0"/>
+<text x="462" y="203.2" class="s1">1500</text>
+<use xlink:href="#m536aa40177" x="501.5" y="188.6" class="s0"/>
+<text x="501.5" y="203.2" class="s1">2000</text>
+<use xlink:href="#m536aa40177" x="541" y="188.6" class="s0"/>
+<text x="541" y="203.2" class="s1">2500</text>
+<use xlink:href="#m536aa40177" x="580.5" y="188.6" class="s0"/>
+<text x="580.5" y="203.2" class="s1">3000</text>
+<text x="458.1" y="217.2" class="s1">step</text>
+<use xlink:href="#m7239b0bf62" x="332.1" y="176.3" class="s0"/>
+<text x="325.1" y="180.1" class="s2">0.40</text>
+<use xlink:href="#m7239b0bf62" x="332.1" y="151.9" class="s0"/>
+<text x="325.1" y="155.7" class="s2">0.45</text>
+<use xlink:href="#m7239b0bf62" x="332.1" y="127.6" class="s0"/>
+<text x="325.1" y="131.4" class="s2">0.50</text>
+<use xlink:href="#m7239b0bf62" x="332.1" y="103.2" class="s0"/>
+<text x="325.1" y="107" class="s2">0.55</text>
+<use xlink:href="#m7239b0bf62" x="332.1" y="78.9" class="s0"/>
+<text x="325.1" y="82.7" class="s2">0.60</text>
+<use xlink:href="#m7239b0bf62" x="332.1" y="54.5" class="s0"/>
+<text x="325.1" y="58.3" class="s2">0.65</text>
+<use xlink:href="#m7239b0bf62" x="332.1" y="30.2" class="s0"/>
+<text x="325.1" y="34" class="s2">0.70</text>
+<path d="M 343.6 33.5 L 351.5 83.7 L 359.4 112.6 L 367.3 131.1 L 375.2 143.8 L 383.1 152.9 L 391 159.6 L 398.9 164.6 L 406.8 168.5 L 414.7 171.4 L 422.6 173.7 L 430.5 175.5 L 438.4 176.8 L 446.2 177.9 L 454.1 178.7 L 462 179.3 L 469.9 179.8 L 477.8 180.2 L 485.7 180.4 L 493.6 180.7 L 501.5 180.8 L 509.4 180.9 L 517.3 181 L 525.2 181.1 L 533.1 181.1 L 541 181.1 L 548.9 181.2 L 556.8 181.2 L 564.7 181.2 L 572.6 181.2" class="s7"/>
+<path d="M 343.6 33.5 L 351.5 137.7 L 359.4 163.9 L 367.3 173.8 L 375.2 178 L 383.1 179.8 L 391 180.6 L 398.9 181 L 406.8 181.1 L 414.7 181.2 L 422.6 181.2 L 430.5 181.2 L 438.4 181.2 L 446.2 181.2 L 454.1 181.2 L 462 181.2 L 469.9 181.2 L 477.8 181.2 L 485.7 181.2 L 493.6 181.2 L 501.5 181.2 L 509.4 181.2 L 517.3 181.2 L 525.2 181.2 L 533.1 181.2 L 541 181.2 L 548.9 181.2 L 556.8 181.2 L 564.7 181.2 L 572.6 181.2" class="s8"/>
+<path d="M 343.6 33.5 L 351.5 175.5 L 359.4 180.8 L 367.3 181.2 L 375.2 181.2 L 383.1 181.2 L 391 181.2 L 398.9 181.2 L 406.8 181.2 L 414.7 181.2 L 422.6 181.2 L 430.5 181.2 L 438.4 181.2 L 446.2 181.2 L 454.1 181.2 L 462 181.2 L 469.9 181.2 L 477.8 181.2 L 485.7 181.2 L 493.6 181.2 L 501.5 181.2 L 509.4 181.2 L 517.3 181.2 L 525.2 181.2 L 533.1 181.2 L 541 181.2 L 548.9 181.2 L 556.8 181.2 L 564.7 181.2 L 572.6 181.2" class="s9"/>
+<path d="M 343.6 33.5 L 351.5 181.2 L 359.4 181.2 L 367.3 181.2 L 375.2 181.2 L 383.1 181.2 L 391 181.2 L 398.9 181.2 L 406.8 181.2 L 414.7 181.2 L 422.6 181.2 L 430.5 181.2 L 438.4 181.2 L 446.2 181.2 L 454.1 181.2 L 462 181.2 L 469.9 181.2 L 477.8 181.2 L 485.7 181.2 L 493.6 181.2 L 501.5 181.2 L 509.4 181.2 L 517.3 181.2 L 525.2 181.2 L 533.1 181.2 L 541 181.2 L 548.9 181.2 L 556.8 181.2 L 564.7 181.2 L 572.6 181.2" class="s10"/>
+<path d="M 343.6 33.5 L 351.5 181.2 L 359.4 181.2 L 367.3 181.2 L 375.2 181.2 L 383.1 181.2 L 391 181.2 L 398.9 181.2 L 406.8 181.2 L 414.7 181.2 L 422.6 181.2 L 430.5 181.2 L 438.4 181.2 L 446.2 181.2 L 454.1 181.2 L 462 181.2 L 469.9 181.2 L 477.8 181.2 L 485.7 181.2 L 493.6 181.2 L 501.5 181.2 L 509.4 181.2 L 517.3 181.2 L 525.2 181.2 L 533.1 181.2 L 541 181.2 L 548.9 181.2 L 556.8 181.2 L 564.7 181.2 L 572.6 181.2" class="s11"/>
+<path d="M 343.6 33.5 L 351.5 181.2 L 359.4 181.2 L 367.3 181.2 L 375.2 181.2 L 383.1 181.2 L 391 181.2 L 398.9 181.2 L 406.8 181.2 L 414.7 181.2 L 422.6 181.2 L 430.5 181.2 L 438.4 181.2 L 446.2 181.2 L 454.1 181.2 L 462 181.2 L 469.9 181.2 L 477.8 181.2 L 485.7 181.2 L 493.6 181.2 L 501.5 181.1 L 509.4 181.1 L 517.3 181.2 L 525.2 181.2 L 533.1 181.2 L 541 181.2 L 548.9 181.2 L 556.8 181.2 L 564.7 181.2 L 572.6 181.2" class="s12"/>
+<path d="M 332.1 188.6 L 332.1 26.2" class="s3"/>
+<path d="M 584 188.6 L 584 26.2" class="s3"/>
+<path d="M 332.1 188.6 L 584 188.6" class="s3"/>
+<path d="M 332.1 26.2 L 584 26.2" class="s3"/>
+<text x="458.1" y="20.2" class="s6">DPO loss</text>
+<path d="M 519.5 94.8 L 579.1 94.8 Q 580.5 94.8 580.5 93.4 L 580.5 31.1 Q 580.5 29.7 579.1 29.7 L 519.5 29.7 Q 518.1 29.7 518.1 31.1 L 518.1 93.4 Q 518.1 94.8 519.5 94.8 z" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+<path d="M 520.9 35.3 L 527.9 35.3 L 534.9 35.3" class="s7"/>
+<text x="540.5" y="37.8" class="s4">beta=0.03</text>
+<path d="M 520.9 45.8 L 527.9 45.8 L 534.9 45.8" class="s8"/>
+<text x="540.5" y="48.3" class="s4">beta=0.1</text>
+<path d="M 520.9 56.3 L 527.9 56.3 L 534.9 56.3" class="s9"/>
+<text x="540.5" y="58.8" class="s4">beta=0.3</text>
+<path d="M 520.9 66.8 L 527.9 66.8 L 534.9 66.8" class="s10"/>
+<text x="540.5" y="69.3" class="s4">beta=1.0</text>
+<path d="M 520.9 77.3 L 527.9 77.3 L 534.9 77.3" class="s11"/>
+<text x="540.5" y="79.8" class="s4">beta=3.0</text>
+<path d="M 520.9 87.8 L 527.9 87.8 L 534.9 87.8" class="s12"/>
+<text x="540.5" y="90.3" class="s4">beta=10.0</text>
+</svg>
