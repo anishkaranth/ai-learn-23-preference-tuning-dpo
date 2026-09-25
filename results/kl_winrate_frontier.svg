@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="331.2pt" height="259.2pt" viewBox="0 0 331.2 259.2" version="1.1">
+<style type="text/css">.s0{stroke:#000000;stroke-width:0.8}.s1{font-size:10px;font-family:sans-serif;text-anchor:middle}.s2{font-size:10px;font-family:sans-serif;text-anchor:end}.s3{font-size:7px;font-family:sans-serif;text-anchor:start}.s4{fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square}.s5{fill:#ffffff}</style>
+<defs>
+<style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+</defs>
+<path d="M 0 259.2 L 331.2 259.2 L 331.2 0 L 0 0 z" class="s5"/>
+<path d="M 54.4 217.1 L 306.9 217.1 L 306.9 26.2 L 54.4 26.2 z" class="s5"/>
+<defs>
+<path id="m536aa40177" d="M 0 0 L 0 3.5" class="s0"/>
+</defs>
+<use xlink:href="#m536aa40177" x="65.9" y="217.1" class="s0"/>
+<text x="65.9" y="231.7" class="s1">0.00</text>
+<use xlink:href="#m536aa40177" x="101.7" y="217.1" class="s0"/>
+<text x="101.7" y="231.7" class="s1">0.25</text>
+<use xlink:href="#m536aa40177" x="137.6" y="217.1" class="s0"/>
+<text x="137.6" y="231.7" class="s1">0.50</text>
+<use xlink:href="#m536aa40177" x="173.4" y="217.1" class="s0"/>
+<text x="173.4" y="231.7" class="s1">0.75</text>
+<use xlink:href="#m536aa40177" x="209.2" y="217.1" class="s0"/>
+<text x="209.2" y="231.7" class="s1">1.00</text>
+<use xlink:href="#m536aa40177" x="245.1" y="217.1" class="s0"/>
+<text x="245.1" y="231.7" class="s1">1.25</text>
+<use xlink:href="#m536aa40177" x="280.9" y="217.1" class="s0"/>
+<text x="280.9" y="231.7" class="s1">1.50</text>
+<text x="180.7" y="245.7" class="s1">KL to reference</text>
+<defs>
+<path id="m7239b0bf62" d="M 0 0 L -3.5 0" class="s0"/>
+</defs>
+<use xlink:href="#m7239b0bf62" x="54.4" y="208.4" class="s0"/>
+<text x="47.4" y="212.2" class="s2">0.50</text>
+<use xlink:href="#m7239b0bf62" x="54.4" y="173.6" class="s0"/>
+<text x="47.4" y="177.4" class="s2">0.55</text>
+<use xlink:href="#m7239b0bf62" x="54.4" y="138.9" class="s0"/>
+<text x="47.4" y="142.7" class="s2">0.60</text>
+<use xlink:href="#m7239b0bf62" x="54.4" y="104.1" class="s0"/>
+<text x="47.4" y="107.9" class="s2">0.65</text>
+<use xlink:href="#m7239b0bf62" x="54.4" y="69.4" class="s0"/>
+<text x="47.4" y="73.2" class="s2">0.70</text>
+<use xlink:href="#m7239b0bf62" x="54.4" y="34.6" class="s0"/>
+<text x="47.4" y="38.4" class="s2">0.75</text>
+<text x="18.8" y="121.6" transform="rotate(-90 18.8 121.6)" class="s1">win rate vs reference</text>
+<path d="M 65.9 208.4 L 67.5 188.3 L 81.1 147.9 L 143.2 79.7 L 240.7 38.3 L 280.9 34.8 L 295.4 35.3" style="fill: none; stroke: #126782; stroke-width: 1.5; stroke-linecap: square"/>
+<path d="M 54.4 217.1 L 54.4 26.2" class="s4"/>
+<path d="M 306.9 217.1 L 306.9 26.2" class="s4"/>
+<path d="M 54.4 217.1 L 306.9 217.1" class="s4"/>
+<path d="M 54.4 26.2 L 306.9 26.2" class="s4"/>
+<text x="295.4" y="35.3" class="s3">b=0.03</text>
+<text x="280.9" y="34.8" class="s3">b=0.1</text>
+<text x="240.7" y="38.3" class="s3">b=0.3</text>
+<text x="143.2" y="79.7" class="s3">b=1.0</text>
+<text x="81.1" y="147.9" class="s3">b=3.0</text>
+<text x="67.5" y="188.3" class="s3">b=10.0</text>
+<text style="font-size: 12px; font-family: sans-serif; text-anchor: middle" x="180.7" y="20.2">Reward / KL frontier</text>
+</svg>
