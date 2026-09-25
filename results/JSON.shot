@@ -1,0 +1,18 @@
+{
+  "project": "ai-learn-23-preference-tuning-dpo",
+  "seed": 42,
+  "config": {
+    "n_train_prompts": 400,
+    "n_test_prompts": 300,
+    "k_candidates": 6,
+    "n_train_pairs": 3000,
+    "n_test_pairs": 1500,
+    "rm_steps": 500,
+    "rm_lr": 0.05,
+    "rm_l2": 0.001,
+    "dpo_steps": 3000,
+    "dpo_lr": 0.05,
+    "betas": [0.03, 0.1, 0.3, 1.0, 3.0, 10.0]
+  },
+  "headline": {"rm_test_pair_acc": 0.822, "rm_test_true_order_acc": 0.916, "label_agreement_with_true_order": 0.838, "best_beta": 0.1, "best_win_rate_vs_ref": 0.7497, "best_kl_to_ref": 1.5, "beta1_win_rate_vs_ref": 0.6852, "beta1_kl_to_ref": 0.5392, "beta10_win_rate_vs_ref": 0.5289, "beta10_kl_to_ref": 0.0113, "ref_expected_true_reward": 0.6336, "best_expected_true_reward": 2.4507, "oracle_best_of_k_reward": 2.5296}
+}
